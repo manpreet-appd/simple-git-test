@@ -1,4 +1,5 @@
 {
   "type":"user",
-  "firstName":"Jon"
+  "firstName":"Jon",
+  "lastName":"Doe"
 }
