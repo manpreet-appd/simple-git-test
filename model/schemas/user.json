@@ -10,6 +10,6 @@
     }
   },
   "required": [
-    "firstName", "lastName"
+    "firstName"
   ]
 }
